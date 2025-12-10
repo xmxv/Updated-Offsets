@@ -18450,6 +18450,13 @@
       }
     },
     "enums": {
+      "8y____": {
+        "alignment": 60,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
       "AmmoFlags_t": {
         "alignment": 4,
         "members": {
@@ -19535,6 +19542,11 @@
         },
         "type": "uint8"
       },
+      "P_C_s_": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
       "PerformanceMode_t": {
         "alignment": 4,
         "members": {
@@ -20269,6 +20281,11 @@
           "WORLDTEXT_VERTICAL_ALIGN_TOP": 0
         },
         "type": "uint32"
+      },
+      "__C_s_": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
       },
       "attributeprovidertypes_t": {
         "alignment": 4,
