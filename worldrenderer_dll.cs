@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-02-26 00:30:14.473772300 UTC
+// 2026-03-05 05:36:12.156065900 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: worldrenderer.dll
